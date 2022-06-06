@@ -1,4 +1,4 @@
-### Hi there! I am Fafa 👋
+### Hi there! I'm Fafa 👋
 
 - 🎓 A Nuclear Engineering <a href="https://www.ugm.ac.id/en" target="_blank">Universitas Gadjah Mada</a> graduate
 - 💻 A <a href="https://grow.google/intl/id_id/bangkit/" target="_blank">Bangkit 2021</a> graduate
