@@ -6,4 +6,4 @@
 - 🌱 Currently learning data analysis using Python and SQL, and data visualization using Tableau
 - 👀 Interested in data, Machine Learning, and advanced science
 - ⚡ <a href="https://www.credential.net/63b72c21-21f8-4883-a992-d0abd24329d0#gs.e9kkzy" target="_blank">TensorFlow Developer</a> certified
-- 📫 Reach me on <a href="https://www.linkedin.com/in/fafafwzn/" target="_blank">LinkedIn</a> and <a href="https://medium.com/@fafafwzn" target="_blank">Medium</a>
+- 📫 Reach me on <a href="https://www.linkedin.com/in/fafafwzn/" target="_blank">LinkedIn</a> and <a href="https://fafafwzn.medium.com/" target="_blank">Medium</a>
