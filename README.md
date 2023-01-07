@@ -1,6 +1,6 @@
 ### Hi there! I'm Fafa 👋
 
-- 💼 I am working at <a href="https://https://bri.co.id/en/home" target="_blank">BRI</a> as a Data Analyst 
+- 💼 I am working at <a href="https://https://bri.co.id/en/home" target="_blank">BRI</a> as a Data Scientist
 - 🎓 Nuclear Engineering <a href="https://www.ugm.ac.id/en" target="_blank">Universitas Gadjah Mada</a> graduate
 - 💻 <a href="https://grow.google/intl/id_id/bangkit/" target="_blank">Bangkit 2021</a> graduate specializing in Machine Learning
 - 🌱 Currently learning data engineering
