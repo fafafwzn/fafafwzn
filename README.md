@@ -1,6 +1,6 @@
 # Hi there! I'm Fafa 👋
 
-- 💼 I am currently enrolled in the the IT Management Trainee Program at <a href="https://https://bri.co.id/en/home" target="_blank">BRI</a>
+- 💼 I am currently working as a Data Scientist at <a href="https://https://bri.co.id/en/home" target="_blank">BRI</a>
 - 🎓 Nuclear Engineering <a href="https://www.ugm.ac.id/en" target="_blank">Universitas Gadjah Mada</a> graduate
 - 💻 <a href="https://grow.google/intl/id_id/bangkit/" target="_blank">Bangkit 2021</a> graduate specializing in Machine Learning
 - 🌱 Currently learning data science and analytics
