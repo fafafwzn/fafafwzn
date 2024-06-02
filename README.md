@@ -6,4 +6,4 @@
 - 🌱 Currently learning LLM, RAG, and their implementation. Oh, and I also learned data analytics too
 - 👀 Interested in data, machine learning, LLM, RAG, and other state-of-the-art technologies
 - ⚡ <a href="https://www.credential.net/63b72c21-21f8-4883-a992-d0abd24329d0#gs.e9kkzy" target="_blank">TensorFlow Developer</a> certified
-- 📫 Reach me on <a href="https://www.linkedin.com/in/fafafwzn/" target="_blank">LinkedIn</a> and <a href="https://fafafwzn.medium.com/" target="_blank">Medium</a>
+- 📫 Reach me on <a href="https://www.linkedin.com/in/fafafwzn/" target="_blank">LinkedIn</a>, <a href="https://www.kaggle.com/fafafwzn" target="_blank">Kaggle</a>, and <a href="https://fafafwzn.medium.com/" target="_blank">Medium</a>
